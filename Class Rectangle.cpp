@@ -1,6 +1,6 @@
 /*
 project name: Class Rectangle
-Author: Mohammednur Sukyan
+Author: Abdullatif sadik
 Date: 5th October, 2024.
 */
 
